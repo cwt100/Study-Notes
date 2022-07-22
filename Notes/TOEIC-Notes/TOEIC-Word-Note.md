@@ -1,10 +1,40 @@
 # TOEIC Word Note
 
-Update: 2022/07/19
+Update: 2022/07/25
 
-* [Stage 1 (1 ~ 24)](#stage-1)
+* [Stage 1 (1 ~ 24)](#stage-1) [2022/07/17]
+* [Stage 2 (1 ~ 7)](#stage-2) [2022/07/24]
 
 ---
+
+## Stage 2
+
+> 2022/07/18 ~ 2022/07/24
+
+1. entitle v. 給...權力
+- be entitled to + n. 有得到...的權利
+- be entitled to do 有做...的權利
+2. degree n. 學位
+3. payroll n. 薪水帳冊、發薪名單
+- on the payroll 是某公司的員工
+4. recruit v. 招募
+- recruit n. 新進人員
+- recruitment n. 新進人員招募
+- recruiter n. 招募方、招募者
+5. certification n. 資格證明
+- certify v. 證明
+- certified adj. 被證明的、有認證的
+- professional certification 專業的資格證明
+- a birth certificate 出生證明
+6. occupation n. 職業 job, vocation
+- occupy v. 佔據
+- occupational adj. 職業上的
+- occupatant n. 佔有者(土地)、居住者(住宅)
+7. wage n. 工資、薪水(藍領階級每月薪資)
+- salary 薪水(白領階級每年薪資)
+- compensation 補償、報酬
+
+<br/>
 
 ## Stage 1
 
@@ -39,3 +69,8 @@ Update: 2022/07/19
 - concerned adj. 擔心的
 24. consultant n. 顧問
 - consult v. 諮詢
+- consult + 專家
+- consult with + 身份對等的對象 和...商議、商談
+- consult + 書籍/資料 查閱
+- consultant 顧問 (人物名詞)
+- consultation 諮詢 (抽象名詞) 
