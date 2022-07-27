@@ -1,11 +1,68 @@
 # TOEIC Word Note
 
-Update: 2022/07/25
+Update: 2022/08/02 <font color=yellow><b>[Doing]</b></font>
 
-* [Stage 1 (1 ~ 24)](#stage-1) [2022/07/17]
-* [Stage 2 (1 ~ 7)](#stage-2) [2022/07/24]
+* [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
+* [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
+* [Stage 3 (1 ~ 34)](#stage-3)  [2022/07/31]
 
 ---
+
+## Stage 3
+
+> 2022/07/25 ~ 2022/07/31
+
+1. application form 申請表
+2. career n. 職業、生涯
+3. completion n. 完成
+4. fair adj. 公平的
+5. graduation n. 畢業
+6. in fact 事實上
+7. job fair 就業博覽會
+8. job offer 工作雇用通知
+9. list n. 列表 v. 列出
+10. newcomer n. 新進人員
+11. part-time adj. 兼職的
+12.  previous job 上一份工作
+13. secretary n. 秘書
+14. send in 遞交
+15. tidy adj. 整齊的、整潔的
+16. trainee n. 受訓者
+17. apply for 申請
+18. aptitude n. 才能、資質
+19. be admitted to 被允許進入...
+20. be advised to do 被建議做...
+21. criteria n. 標準
+22. decade n. 十年
+23. employ v. 雇用
+24. insufficient adj. 不充分的、不足的
+25. minimum n. 最低限度 adj. 最小的
+26. party n. 團體、當事人、宴會
+27. profession n. 職業
+28. attire n. 服裝、衣著
+29. code n. 規範、慣例、密碼
+30. concern n. 擔心、憂慮
+- concerning 關於...
+- matter 問題
+- worry 使擔心
+- involve 牽涉到
+- concern about 關於...憂慮
+- concern over 關於...擔心
+- questions concerning 關於...的問題
+31. policy n. 政策、規定、保險單
+32. comply v. 遵守、遵從
+- comply with 遵守、遵從 (規則)，不及物動詞＋介系詞
+- observe 遵守，及物動詞＋O.
+- obey 遵從指示、服從(人)
+- fulfill 滿足
+33. regulation n. 規定
+- safety regulations 安全規定
+- customs regulations 海關規定
+34. exception n. 例外
+- with the exception of 除了...以外
+- with very few exception 幾乎沒有例外
+
+<br/>
 
 ## Stage 2
 
