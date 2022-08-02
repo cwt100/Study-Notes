@@ -1,12 +1,69 @@
 # TOEIC Word Note
 
-Update: 2022/08/02 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/08/08 <font color=yellow><b>[Doing]</b></font>
 
 * [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
 * [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
 * [Stage 3 (1 ~ 34)](#stage-3)  [2022/07/31]
+* [Stage 4 (1 ~ 11)](#stage-4)  [2022/08/07]
 
 ---
+
+## Stage 4
+
+> 2022/08/01 ~ 2022/08/07
+
+1. violate v. 違反
+2. distribute v. 分發
+3. insurance n. 保險
+4. adhere v. 遵守、堅持
+```
+    不及物動詞 + to
+```
+- adhere to policies 遵守政策
+- adhere to rules 遵守規則
+- adhere to standards 遵守標準
+5. severely adv. 嚴格地、嚴重地
+- severe adj. 嚴格的、嚴重的
+- sternly adv. 嚴格地
+- leniently adv. 寬大地、寬容地
+6. refrain v. 克制、抑制
+```
+    ( 不及物動詞 + 介系詞 from )
+```
+- refrain from 抑制...、避免做...
+
+7. permission n. 允許、許可
+- permit v. 允許
+8. access n. 使用權、接近、通道
+- access v. 接近、到達...
+- accessible adj. 可接近的、可利用的
+- accessibility n. 易接近性
+- have access to 有接近/使用...的權限
+```
+    access (n.) + to 
+```
+- access the documents 存取文件
+```
+    access (及物動詞，不用加介系詞)
+```
+- approach n. 接近/處理的方法
+```
+    可數名詞 + 冠詞 (an)
+```
+- access n. 使用權、接近
+```
+    不可數名詞，不用加冠詞
+```
+9. thoroughly adv. 徹底地、完全地、非常
+- thorough adj. 徹底的、完全的
+10. revise v. 修訂、變更
+- revise n. 修訂、變更
+11. punished 受到處罰
+
+
+
+<br/>
 
 ## Stage 3
 
