@@ -1,13 +1,80 @@
 # TOEIC Word Note
 
-Update: 2022/08/08 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/08/15 <font color=yellow><b>[Doing]</b></font>
 
 * [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
 * [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
 * [Stage 3 (1 ~ 34)](#stage-3)  [2022/07/31]
 * [Stage 4 (1 ~ 11)](#stage-4)  [2022/08/07]
+* [Stage 5 (1 ~ 23)](#stage-5)  [2022/08/14]
 
 ---
+
+## Stage 5
+
+> 2022/08/08 ~ 2022/08/14
+
+1. approval n. 批准、認可
+- obtain approval for 獲得...批准
+2. form n. 種類、類型、形式
+- form v. 朔造、形成
+- a form of identification 一種身份證明
+- formal adj. 正式的、形式的
+- formation n. 形成
+3. immediately adv. 立即、馬上
+- immediately after 在...之後馬上
+- immediately upon arrival 到達後馬上
+- immediate adj. 立即的
+4. inspection n. 檢查、視察
+- inspect v. 檢查、視察
+5. arrangement 安排、準備、佈置
+- make arrangements to do 準備做...的安排
+- make arrangements for 為...做安排
+- arrange v. 安排、準備
+6. procedure n. 手續、程序
+- proceed v. 進展、進行
+- procedural adj. 程序上的
+7. negative adj. 負面的、消極的
+8. mandate v. 使...成為必須的、授權給...
+- mandate n. 授權、命令
+9. effect n. 效力、效果、影響
+- in effect 有效力的、實施的
+- come into effect 實施、生效
+- take effect 生效、實施
+- have an effect on 對...有影響
+- secondary effect 次級效應
+- effective adj. 有效的
+- effectively adv. 有效地
+- put into effect 實施、使生效
+10. authorized adj. 經授權的
+- authorize v. 批准... 授權...做某事
+- authorization n. 授權
+- authority n. 權利、當局
+- an authorized service center 授權服務中心
+- unauthorized reproduction 未經授權的重製
+11. personnel n. 員工
+12. introduce v. 採用
+13. regarding 介詞 關於
+14. strict adj. 嚴格的
+15. drastically adv. 激烈地、大幅地、徹底地
+16. according to 根據... 依照...
+17. enable v. 使...能夠
+18. standard n. 標準
+- standardize v. 使標準化
+19. constant adj. 持續的、不斷的
+- constantly adv. 不斷地
+20. act n. 法案、行為
+- act v. 擔當、行動
+21. compensation n. 賠償、報酬
+- compensation for 對於...的補償
+```
+    compensation + for
+```
+22. ban n. 禁止、禁令
+- ban v. 禁止
+23. obligation n. 義務、責任
+
+<br/>
 
 ## Stage 4
 
