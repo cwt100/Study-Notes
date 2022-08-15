@@ -1,6 +1,6 @@
 # Android 最佳化實作 Note
 
-Update: 2022/08/11 <font color=yellow><b>(Doing)</b></font>
+Update: 2022/08/12 <font color=yellow><b>(Doing)</b></font>
 
 <br/>
 
@@ -76,7 +76,7 @@ Update: 2022/08/11 <font color=yellow><b>(Doing)</b></font>
 ## Reference
 
 ### LRU
-https://josephjsf2.github.io/data/structure/and/algorithm/2020/05/09/LRU.html
+https://josephjsf2.github.io/data/structure/and/algorithm/2020/05/09/LRU.html (DONE)
 
     Least Recently Used Cache (LRU)
 
