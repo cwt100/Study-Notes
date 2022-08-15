@@ -1,6 +1,6 @@
 # TOEIC Note
 
-Update: 2022/08/15 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/08/23 <font color=yellow><b>[Doing]</b></font>
 
 --- 
 

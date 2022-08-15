@@ -1,14 +1,92 @@
 # TOEIC Word Note
 
-Update: 2022/08/15 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/08/23 <font color=yellow><b>[Doing]</b></font>
 
 * [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
 * [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
 * [Stage 3 (1 ~ 34)](#stage-3)  [2022/07/31]
 * [Stage 4 (1 ~ 11)](#stage-4)  [2022/08/07]
 * [Stage 5 (1 ~ 23)](#stage-5)  [2022/08/14]
+* [State 6 (1 ~ 28)](#stage-6)  [2022/08/21]
 
 ---
+
+## Stage 6
+
+> 2022/08/15 ~ 2022/08/21
+
+1. prohibit v. 禁止
+```
+    prohibit A from -ing 禁止A做...
+```
+- Motor vehicles are prohibited from driving in the town center.
+- forbid v. 禁止
+```
+    forbid A + from -ing / to do 禁止A做...
+```
+- He is forbidden from  leaving the country.
+- He's obviously really embarrassed about it because he forbade me to tell anyone. 
+2. abolish v. 廢除
+3. enforce v. 執行、實施
+- enforce regulations 執行規定
+4. habit n. 習慣
+- habitual adj. 習慣性的
+- convention n. 慣例、習俗
+5. leglislation n. 立法、法律、法規
+- leglislate v. 立法
+_ leglislator n. 立法者
+6. restrict v. 限制、限定
+```
+    restrict A to B 將A限定於B
+```
+- If I'm driving, I restrict myselft to one glass of wine. 
+- restriction n. 限制
+```
+    lift a restriction 解除限制
+    raise a restriction 解除限制
+```
+- restrictive adj. 限制的
+7. raise v. 舉起、抬起；增加、改善
+8. patent n. 專利
+```
+    took out a patent on ... 取得一項...的專利
+    filed a patent on ... 申請一項...的專利
+```
+9. facility n. 設備
+10. bend over 彎腰
+```
+    bend over backwards 盡力
+```
+11. by oneself 獨自、獨立
+12. get used to 習慣
+```
+    I just can't get used to getting up early.
+```
+- used to 過去慣常、過去常常做
+```
+    She used to love dancing, but she doesn't do it any more.
+```
+13. If it's okay with you 如果你可以接受的話
+14. in case of 萬一...
+15. in rows 一排排地
+16. leagal adj. 法律的、合法的
+17. let go 釋放、放開
+- Let go of my hand, you're hurting me!
+18. curriculum n. 課程
+19. dress n. 服裝 v. 穿衣
+20. enough adj. 足夠的
+- enough n. 足夠充分的數量
+21. law firm 法律事務所
+22. loudly adv. 大聲地
+23. seldom adv. 很少
+24. theft n. 竊盜
+25. witness n. 目擊者、證人
+26. increase n. 增加
+27. expansion n. 擴張
+28. participate v. 參加
+- She never participates in any of our discussions, does she?
+
+<br/>
 
 ## Stage 5
 
