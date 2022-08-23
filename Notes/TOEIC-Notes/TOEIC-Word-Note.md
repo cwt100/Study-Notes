@@ -1,6 +1,6 @@
 # TOEIC Word Note
 
-Update: 2022/08/23 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/08/30 <font color=yellow><b>[Doing]</b></font>
 
 * [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
 * [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
@@ -8,8 +8,72 @@ Update: 2022/08/23 <font color=yellow><b>[Doing]</b></font>
 * [Stage 4 (1 ~ 11)](#stage-4)  [2022/08/07]
 * [Stage 5 (1 ~ 23)](#stage-5)  [2022/08/14]
 * [Stage 6 (1 ~ 28)](#stage-6)  [2022/08/21]
+* [Stage 7 (1 ~ 14)](#stage-7)  [2022/08/28]
 
 ---
+
+## Stage 7
+
+> 2022/08/22 ~ 2022/08/28
+
+1. accustomed adj. 習慣的
+```
+    be accustomed to -ing 習慣做...
+```
+- I'm not accustomed to being treated like this.
+2. treat v. 對待
+3. corporation n. 股份有限公司、法人
+- corporate adj. 法人的、公司的
+- a corporate merge 公司合併
+4. demanding adj. 要求很多的、吃力的
+- a demanding job 艱鉅的工作
+- demand v. 要求
+- The union is demanding a seven percent pay rise this year.
+5. colleague n. 同事
+- associate / coworker / peer 同事
+6. division n. 部門
+- the sales division 銷售部門
+- category 分類
+- compartment 區劃、隔間
+- divide v. 劃分
+- This path marks the dividing line between my land and my neighbour's.
+7. request n. 要求 v. 要求
+```
+    upon request 應邀
+```
+- He lined out a few songs upon request
+```
+    request for 對於...的要求
+```
+- They received hundreds of request for more information.
+```
+    request that + 主詞 + 動詞原形 要求...做...
+```
+- We requested that the next meeting be held on a Friday.
+```
+    be request to do 被要求做...
+```
+8. commission v. 委託...創作
+9. efficiently adv. 有效率地
+10. manage v. 經營、管理；設法做到、勉強做到
+- management n. 管理、經營團隊
+- manageable adj. 可管理的、可處理的
+- The work has been divide into smaller, more manageable sections.
+```
+    manage to do 設法做到... 勉強做到...
+```
+- I finally managed to make ends meet this month.
+```
+    Under the new management 在新的經營團隊下
+```
+11. evaluation n. 評價
+- job evaluation 工作評價
+12. volume n. 容量；大量
+13. liquid n. 液體
+14. purpose n. 目的
+
+
+<br/>
 
 ## Stage 6
 
@@ -32,9 +96,9 @@ Update: 2022/08/23 <font color=yellow><b>[Doing]</b></font>
 4. habit n. 習慣
 - habitual adj. 習慣性的
 - convention n. 慣例、習俗
-5. leglislation n. 立法、法律、法規
-- leglislate v. 立法
-_ leglislator n. 立法者
+5. legislation n. 立法、法律、法規
+- legislate v. 立法
+- legislator n. 立法者
 6. restrict v. 限制、限定
 ```
     restrict A to B 將A限定於B
