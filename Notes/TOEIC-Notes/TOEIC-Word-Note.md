@@ -7,7 +7,7 @@ Update: 2022/08/23 <font color=yellow><b>[Doing]</b></font>
 * [Stage 3 (1 ~ 34)](#stage-3)  [2022/07/31]
 * [Stage 4 (1 ~ 11)](#stage-4)  [2022/08/07]
 * [Stage 5 (1 ~ 23)](#stage-5)  [2022/08/14]
-* [State 6 (1 ~ 28)](#stage-6)  [2022/08/21]
+* [Stage 6 (1 ~ 28)](#stage-6)  [2022/08/21]
 
 ---
 
