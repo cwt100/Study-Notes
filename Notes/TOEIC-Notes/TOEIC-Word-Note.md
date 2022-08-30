@@ -1,6 +1,6 @@
 # TOEIC Word Note
 
-Update: 2022/08/30 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/09/21 <font color=yellow><b>[Doing]</b></font>
 
 * [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
 * [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
@@ -9,8 +9,106 @@ Update: 2022/08/30 <font color=yellow><b>[Doing]</b></font>
 * [Stage 5 (1 ~ 23)](#stage-5)  [2022/08/14]
 * [Stage 6 (1 ~ 28)](#stage-6)  [2022/08/21]
 * [Stage 7 (1 ~ 14)](#stage-7)  [2022/08/28]
+* [Stage 8 (1 ~ 18)](#stage-8)  [2022/09/04]
 
 ---
+
+## Stage 8
+
+> 2022/08/29 ~ 2022/09/04
+
+1. submit v. 提交
+- submission n. 提交、提交物
+- turn in / hand in 提交
+```
+    submit A to B 提交 A 給 B
+```
+- The developers submitted building plans to the council for approval
+```
+    submit a resume 提交履歷
+    submit a receipt 提交收據
+    submit a recommendation 提交推薦信
+    submit a proposal 提交提案書
+```
+
+2. directly adv. 直接地
+- direct v. 指導
+- direction n. 方向
+```
+    report directly 直接報告
+    contact directly 直接聯絡
+    call directly 直接打電話
+```
+
+3. remind v. 提醒；使想起
+- reminder n. 作為提醒的事物、備忘錄
+```
+    remind 人 ＋ of 內容    提醒某人某事
+```
+- You remind me of someone I used to know.
+```
+    remind 人 to do     提醒某人做某事
+```
+```
+    be remind to do     被提醒做某事
+```
+
+4. instruct v. 指示、指導
+- instruction n. 指示
+- instructor n. 講師
+
+5. deadline n. 截止期限、最後期限
+
+6. sample n. 樣本
+- sample v. 試吃、抽樣檢查
+
+7. notify v. 通知、告知
+```
+    notify 人 of 內容/that 子句     通知某人某事
+```
+- We notified the police that the bicycle had been stolen. 
+```
+    annouce (to 人) that 子句   (向...)宣布...
+```
+- The prime minister has announced that public spending will be increased next year. 
+```
+    reveal 內容 (to 人) 揭露/洩漏   (讓...知道)
+```
+- Her biography revealed that she was not as rich as everyone thought. 
+- inform 通知、告知
+- notification n. 通知
+
+8. perform v. 執行、實施
+9. monitor v. 監視、監控 n. 監視器
+10. deserve v. 值得、應該得到
+- deserved adj. 應得的
+- well-deserved advancement 應得的晉升
+
+11. assignment n. 工作、任務、作業
+12. entire adj. 整個的
+- entirety n. 全部、整體
+
+13. release v. 發表、公開 n. 發行、上市
+- press release 新聞稿
+- release date 發表日
+
+14. extension n. 延長、延期；分機
+- extend v. 延長、延伸
+- extensive adj. 廣泛的
+
+15. electronically adv. 以電子方式
+- electronic adj. 電子的
+
+16. attendance n. 出勤、出席
+- attendance record 出席紀錄
+- a certificate of attendance 休業證書
+
+17. absolutely adv. 絕對地、完全地
+- absolute adj. 完全的、絕對的
+
+18. reputation n. 好名聲
+
+<br/>
 
 ## Stage 7
 
