@@ -1,6 +1,6 @@
 # TOEIC Word Note
 
-Update: 2022/09/21 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/10/27 <font color=yellow><b>[Doing]</b></font>
 
 * [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
 * [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
@@ -10,8 +10,74 @@ Update: 2022/09/21 <font color=yellow><b>[Doing]</b></font>
 * [Stage 6 (1 ~ 28)](#stage-6)  [2022/08/21]
 * [Stage 7 (1 ~ 14)](#stage-7)  [2022/08/28]
 * [Stage 8 (1 ~ 18)](#stage-8)  [2022/09/04]
+* [Stage 9 (1 ~ 14)](#stage-9)  [2022/09/11]
 
 ---
+
+## Stage 9
+
+> 2022/09/05 ~ 2022/09/11
+
+1. delegate v. 委任 n. 代表
+- delegation n. 代表團、委任
+
+2. attentively adv. 專心地、聚精會神地
+3. supervision n. 監督
+- supervise v. 監督
+- supervisor n. 監督者、主管
+
+4. workshop n. 專題討論會
+5. draw v. 拉、吸引
+```
+    draw praise from 人     得到來自某人的稱讚
+    draw inspiration from 人    得到來自某人的靈感
+```
+
+6. revision n. 修訂
+```
+    make a revision     修訂
+    revised edition     修訂版
+    revised policy      修訂過的政策
+```
+
+7. reluctantly adv. 不情願地、勉強地
+8. acquaint v. 使...認識、使...熟悉
+- acquaintance n. 相識的人
+```
+    acquaint A with B   使A熟悉B
+```
+- The Broadcasting Museum offers workshops to acquaint children with the world of radio.
+
+9. cooperation n. 合作
+
+10. convey v. 傳達
+```
+    convey A to B
+```
+- Please convey our condolences to the family.
+- conveyor n. 傳輸用的東西
+
+11. check v. 檢查、確認 n. 檢查
+- inspect / examine 檢查
+```
+    check A for B   檢查 A 是否有 B
+    check for A     檢查是否有 A
+```
+- After I'd finished the exam, I checked my answers for mistakes.
+
+12. headquarters n. 總部、總公司
+
+13. file v. 把...歸檔；正式提起或提出
+- We file these reports under country of origin.
+```
+    file a claim 提出保險理賠申請
+```
+- file n . 檔案
+
+14. oversee v. 監督
+- supervise v. 監督
+
+<br/>
 
 ## Stage 8
 
