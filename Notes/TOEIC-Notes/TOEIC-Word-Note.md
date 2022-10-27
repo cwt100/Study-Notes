@@ -1,6 +1,6 @@
 # TOEIC Word Note
 
-Update: 2022/10/27 <font color=yellow><b>[Doing]</b></font>
+Update: 2022/11/24 <font color=yellow><b>[Doing]</b></font>
 
 * [Stage 1 (1 ~ 24)](#stage-1)  [2022/07/17]
 * [Stage 2 (1 ~ 7)](#stage-2)   [2022/07/24]
@@ -11,8 +11,95 @@ Update: 2022/10/27 <font color=yellow><b>[Doing]</b></font>
 * [Stage 7 (1 ~ 14)](#stage-7)  [2022/08/28]
 * [Stage 8 (1 ~ 18)](#stage-8)  [2022/09/04]
 * [Stage 9 (1 ~ 14)](#stage-9)  [2022/09/11]
+* [Stage 10 (1 ~ )](#stage-10)  [Doing]
 
 ---
+
+## Stage 10
+
+> 2022/09/12 ~ 2022/10/09
+
+1. involved adj. 有關的
+```
+    be involved in 牽涉... / 參與...
+```
+- involve v. 使產生關聯
+- involvement n. 牽連
+
+2. concentrate v. 集中、專注
+```
+    concentrate on 專注於
+```
+- I can't concentrate on my work with all that noise. 
+```
+    concentrate A on B  把A集中於B
+```
+- concentration n. 集中、專注
+- concentrated adj. 集中的、濃縮的
+- The company is making a concentrated effort to broaden is market.
+- concentrated orange juice
+
+3. regional adj. 區域的
+
+4. a sheet of 一張
+- a sheet of paper 一張紙
+
+5. business card 名片
+
+6. cartridge n. 墨水閘
+
+7. daily adj. 每天的 adv. 每天、天天
+- Take the tablets twice daily.
+
+8. edit v. 編輯、校訂
+
+9. hand n. 手 v. 傳遞
+- All their toys are made by hand.
+- Please read this memo carefully and hand it on. 
+    #### 請仔細閱讀這則備忘錄並傳閱
+
+10. in order to do 為了做...
+- He came home early in order to see the kids before they went to bed.
+
+11. laptop n. 筆記型電腦
+
+12. name tag 名牌
+
+13. on vacation 休假中的
+- They went to Europe on vacation. 
+
+14. paper jam 卡紙
+
+15. paperwork n. 文書工作
+
+16. partition n. 隔板、分割
+- The partition of India occurred in 1947.
+
+17. rush hour 交通尖峰時段
+
+18. section n. 部分、區域
+
+19. sheet n. 一張紙；床單
+- I've put clean sheet on the bed.
+
+20. tabletop n. 桌面
+
+21. telephone call 一通電話
+
+22. trash bin 垃圾桶
+
+23. upstairs adj. 樓上的 adv. 往樓上、在樓上
+
+24. as if 彷彿... 好像...
+
+25. as well as 除了...還有
+- I want to visit Andrew as well as Martin.
+
+26. be aware of 知道...
+
+27. be known as 以身為...為人所知
+
+<br/>
 
 ## Stage 9
 
