@@ -1,9 +1,10 @@
 # Learn Spring in one month - 筆記
-Update：2022/11/23<br/>
+Update：2022/11/24<br/>
 
 * [CH0：初探](#ch0初探)
 * [CH1：Annotation Modulize Introduction](#ch1annotation-modulize-introduction)
 * [CH2：Spring Framework Inttroduction](#ch2spring-framework-inttroduction)
+* [CH3：Spring Boot Starter 環境配置](#ch3spring-boot-starter-環境配置) (Doing)
 
 ---
 
@@ -155,14 +156,71 @@ Update：2022/11/23<br/>
 
 <br>
 
-## Reference
+### Reference
 
-### Main
+#### Main
 - https://ithelp.ithome.com.tw/articles/10266484
 
-### Other
+#### Other
 - https://medium.com/learning-from-jhipster/13-%E7%94%9A%E9%BA%BC%E6%98%AF-jdbc-orm-jpa-orm%E6%A1%86%E6%9E%B6-hibernate-c762a8c5e112
 - https://www.twblogs.net/a/5e522c7dbd9eee211680f079
+
+<br>
+
+---
+
+## CH3：Spring Boot Starter 環境配置
+
+### Spring Boot Starter 是在 Spring Boot 中提出的一種概念，簡化繁雜的配置和依賴，統一整合到一個 starter 中，最後只需要在 Maven 或 Gradle 中引入 starter 依賴，Spring Boot 就會自動載入資源與設定之配置。
+
+<br>
+
+### 開發工具
+
+#### Spring Tool Suite
+
+可以到官網下載
+https://spring.io/tools
+
+<br>
+
+### Demo Spring Boot Project
+
+1. 開啟 Spring Tool Suite
+2. Package Explorer(左側) -> Create new Spring Starter Project
+- Type：可選擇 Gradle
+- Spring Boot Version：2.7.5 (此為預設值)
+- 引入套件(可自行選擇)：Spring Boot DevTools, Spring Security, Spring Web
+    #### 說明：
+    - Spring Boot DevTools：可以偵測 classes 有無變動而重啟專案，無需手動重啟
+    - Spring Security：提供用來驗證的套件，可以協助驗證使用者資訊
+    - Spring Web：包含 Web 應用的支援，包含RESTFul API
+3. Run
+
+    Package Explorer(左側) -> 專案(Ex. Demo) 右鍵 -> Run As ->  Spring Boot App
+
+    #### PS. 需確認下方 console 有執行
+
+4. 瀏覽
+
+- 開啟瀏覽器(Chrome)
+- localhost:8080
+- 顯示預設登入頁面，代表專案啟動成功
+
+<br>
+
+### Reference
+
+#### Main
+- https://ithelp.ithome.com.tw/articles/10267351
+
+#### Spring Boot
+- https://ithelp.ithome.com.tw/articles/10266116
+- https://matthung0807.blogspot.com/2018/09/spring-tool-suitestsspring-boot.html
+
+#### Other
+- https://www.cnblogs.com/tjudzj/p/8758391.html
+- https://iter01.com/587886.html
 
 <br>
 
