@@ -1,6 +1,6 @@
 # Android 最佳化實作 Note
 
-Update: 2022/11/25 <font color=yellow><b>(Doing)</b></font>
+Update: 2022/11/28 <font color=yellow><b>(Doing)</b></font>
 
 <br/>
 
@@ -11,6 +11,8 @@ Update: 2022/11/25 <font color=yellow><b>(Doing)</b></font>
 ### [為什麼需要最佳化](#為什麼需要最佳化) (2022/08/11)
 
 ### [UI版面配置最佳化](#ui版面配置最佳化) (2022/11/25)
+
+### [Android的記憶體系統](#android的記憶體系統) (Doing)
 
 ### [Reference](#reference) <font color=yellow><b>(Doing)</b></font> (2022/08/09)
 
@@ -197,6 +199,62 @@ catch(Exception oExp) {
 
 ### 建議
 - 單一Activity：自定義視圖 <= 20，層數少於四層
+
+<br>
+
+---
+
+## Android的記憶體系統
+
+- CPU的消耗，才是真正影響消耗你的手機資源和電池的因素
+- 沒有帶服務的應用在後台是完全不耗電的，沒有必要關閉
+
+<br>
+
+### 分析Android的處理程序通訊機制
+- 支援商業應用中的交易處理，新增 System V IPC
+
+    - 封包佇列 (Message)
+    - 共用記憶體 (Share Memory)
+    - 號誌 (Semaphore)
+
+- Binder 是一種處理程序間通訊機制
+
+        
+    開發者只需要按照標準實現自己的 Client 和 Server 元件
+
+    - Client
+    - Server
+    - Service Manager
+    - Binder 驅動程式
+
+- Client、Server、Service Manager
+
+    - 實現在使用者空間中
+    - 使用檔案操作函數 open()和ioctl() 與 binder驅動程式溝通
+
+- Binder 驅動程式
+
+    - 實現在核心空間中
+    - 提供裝置檔案 /dev/binder 與使用者空間溝通
+
+- Service Manager
+
+    - 用來管理 Server
+    - 向 Client 提供查詢 Server 介面
+    - 是 Binder 機制的上下文管理者
+
+- Binder 處理程序間通訊機制的精髓
+
+    一方對映處理程序虛擬位置空間，一方對映核心虛擬位置空間，可減少一次記憶體拷貝工作
+
+<br>
+
+### 分析Android系統匿名共用記憶體C++呼叫介面
+
+
+
+<br>
 
 ---
 
